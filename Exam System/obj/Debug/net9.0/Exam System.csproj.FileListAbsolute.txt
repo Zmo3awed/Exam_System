@@ -1,4 +1,0 @@
-C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.AssemblyInfoInputs.cache
-C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.AssemblyInfo.cs
-C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.csproj.CoreCompileInputs.cache
