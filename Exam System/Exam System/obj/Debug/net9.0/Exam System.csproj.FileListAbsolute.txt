@@ -1,0 +1,14 @@
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.AssemblyInfoInputs.cache
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.AssemblyInfo.cs
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\bin\Debug\net9.0\Exam System.exe
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\bin\Debug\net9.0\Exam System.deps.json
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\bin\Debug\net9.0\Exam System.runtimeconfig.json
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\bin\Debug\net9.0\Exam System.dll
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\bin\Debug\net9.0\Exam System.pdb
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.dll
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\refint\Exam System.dll
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.pdb
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\Exam System.genruntimeconfig.cache
+C:\Users\VAIO\OneDrive\Desktop\learn html\Exam System\Exam System\obj\Debug\net9.0\ref\Exam System.dll
